@@ -1,6 +1,6 @@
 # OpenFOAM-GUI
 
-# FOSSEE Internship Screening Tasks – Manoj Kumar Mandal
+# FOSSEE Internship Screening Tasks – IIT BOMBAY 
 
 This repository contains my solutions for the FOSSEE Internship screening tasks:  
 
